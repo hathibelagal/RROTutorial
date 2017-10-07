@@ -1,4 +1,4 @@
-# Envato Tuts+ Tutorial: [Quick Tip: Theming Android With the Runtime Resource Overlay Framework][published url]
+# Envato Tuts+ Quick Tip: [Theming Android With the Runtime Resource Overlay Framework][published url]
 ## Instructor: [Ashraff Hathibelagal][instructor url]
 
 With the RRO framework, you can quickly create themes that can change the look and feel of almost every app that's installed on your Android device. In this quick tip, you'll learn how to use the framework to create a simple theme that changes the looks of the quick settings tray.
